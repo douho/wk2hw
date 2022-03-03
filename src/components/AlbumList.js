@@ -115,7 +115,6 @@ const Albumlist = () => {
           />
         </View>
       </View>
-
     </ScrollView>
   );
 };
