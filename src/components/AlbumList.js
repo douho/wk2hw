@@ -140,8 +140,8 @@ const styles = StyleSheet.create({
   },
   headerContentStyle: {
     width: "75%",
-    height:50,
-    paddingTop:40,
+    height:70,
+    paddingTop:20,
     flexDirection: "row",
     alignItems: "center",
     justifyContent: "space-between",
@@ -158,13 +158,11 @@ const styles = StyleSheet.create({
     elevation: 1,
     marginLeft: 20,
     marginRight: 20,
-    marginTop: 10
+    // marginTop: 10
   },
   cardSectionStyle: {
-    // backgroundColor: "#E0CCD6",
     borderColor: "#ddd",
     paddingBottom: 5
-    // borderBottomWidth: 1
   },
   imageStyle: {
     marginTop: 50,
